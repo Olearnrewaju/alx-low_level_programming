@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- *	 main is the entry point
- * 	Description: a C program that prints Using the function printf
+ *	main is the entry point
+ *	Description: a C program that prints Using the function printf
  * 	Return: 0 as the number
  *
  */
