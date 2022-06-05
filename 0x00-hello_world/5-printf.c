@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- *	main is the entry point
+ *	Main: is the entry point
  *	Description: a C program that prints Using the function printf
- * 	Return: 0 as the number
+ *	Return: 0 as the number
  *
  */
 
