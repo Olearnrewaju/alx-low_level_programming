@@ -1,15 +1,16 @@
 #include <stdio.h>
 /**
- * 	* main - entry point
+ * * main - entry point
  *
- * 		* this is a function that prints a single line of code
- *
- *
- * 				* Return: it is going to always retun 0
+ * * this is a function that prints a single line of code
  *
  *
+ * * Return: it is going to always retun 0
  *
- * */
+ *
+ *
+ *
+ */
 
 int main(void)
 
