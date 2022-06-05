@@ -1,25 +1,24 @@
 #include <stdio.h>
-
 /**
+ * 	* main - entry point
  *
- *  * main - entry point
+ * 		* this is a function that prints a single line of code
  *
- *   *
  *
- *    * Description: A c program that prints with put function
+ * 				* Return: it is going to always retun 0
  *
- *     *
  *
- *      * Return: Always 0 (sucess)
  *
- *       */
+ * */
 
 int main(void)
 
 {
 
-			puts("\"Programming is like building a multilingual puzzle");
+		puts("\"Programming is like building a multilingual puzzle");
 
-						return (0);
+			return (0);
+
+				/* return - is 0 */
 
 }
