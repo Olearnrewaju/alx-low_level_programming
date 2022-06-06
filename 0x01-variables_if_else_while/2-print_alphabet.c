@@ -4,12 +4,11 @@
  * Description: prints all the alphabets in lower case
  * Return: return all the alphabets
  *
- * */
+ */
 
 int main(void)
 {
 	char c;
-	
 	for (c = 'a'; c <= 'z'; ++c)
 	{
 		putchar(c);
