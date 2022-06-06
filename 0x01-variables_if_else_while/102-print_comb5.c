@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - main function
  *  Return: end program
@@ -37,11 +36,11 @@ int main(void)
 				d = 0;
 			}
 			++b;
+			c = 0;
 		}
-		c = 0;
-	}
-	++a;
-	b = 0;
-	putchar(10);
-	return (0);
+		++a;
+		b = 0;
+		putchar(10);
+		
+		return (0);
 }
