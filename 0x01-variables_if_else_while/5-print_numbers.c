@@ -2,6 +2,7 @@
 /**
  * main - Entry point
  * Description: prints all the alphabets in lower case
+ * Return: return alphabets
  */
 int main(void)
 {
