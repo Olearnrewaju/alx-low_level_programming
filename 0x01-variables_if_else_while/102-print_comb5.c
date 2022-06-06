@@ -40,7 +40,8 @@ int main(void)
 		}
 		++a;
 		b = 0;
-	}putchar(10);
+	}
+	putchar(10);
 
 	return (0);
 }
