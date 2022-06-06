@@ -18,7 +18,7 @@ int main(void)
 				{
 					if ((c * 10) + d > (a * 10) + b)
 					{
-						if (coma == 0)
+					if (coma == 0)
 						{
 							putchar(',');
 							putchar(32);
